@@ -1,0 +1,6 @@
+@EmpCoreThreeTire_HostAddress = http://localhost:5028
+
+GET {{EmpCoreThreeTire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
